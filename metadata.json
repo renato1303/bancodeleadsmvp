@@ -1,0 +1,6 @@
+{
+  "name": "Banco de Leads",
+  "description": "Armazenamento e gestão inteligente de leads com busca instantânea e integração com WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
